@@ -1,0 +1,54 @@
+/* Estilos globales
+------------------------------------*/
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+  }
+  img {
+    width: 800px;
+    text-align: center;
+    align-items: center;
+    background-position: center;
+  }
+  a {
+   color: rgb(208, 190, 96);
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
+    line-height: 1;
+  }
+  h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+  }
+  h1, h2 {
+    font-weight: 400;
+    margin: 0;
+  }
+  .contenido {
+    width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  
+  
+  /* Perfil
+  ------------------------------------*/
+  header {
+    background-color: #c37bac;
+    color: #fff;
+    text-align: center;
+  }
