@@ -15,7 +15,7 @@ body {
     align-items: center;
     justify-content: space-between;
     height: 63px;
-    background: url(/img/fondo.png);
+    background: url(img/fondo.png);
     position: fixed;
     width: 100%;
     z-index: 100;
@@ -47,18 +47,18 @@ body {
 }
 
 .navbar a:hover {
-    background: url(/img/fondo.png);
+    background: url(img/fondo.png);
 }
 
 .header {
-    background: url(/img/header.png) no-repeat center;
+    background: url(img/header.png) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
 }
 
 .funland {
-    background: url(/img/FUNLAND.png) no-repeat center ;
+    background: url(img/FUNLAND.png) no-repeat center ;
     background-size: cover;
     background-attachment: fixed;
     text-align: center; 
@@ -93,7 +93,7 @@ p {
     border: 2px solid #e91e63;
     color: #fff;
     text-decoration: none;
-    background: url(/img/fondo.png);
+    background: url(img/fondo.png);
 }
 
 .btn:hover {
@@ -110,7 +110,7 @@ p {
 
 .sau {
     padding: 50px 0;
-    background: url(/img/fondo.png);
+    background: url(img/fondo.png);
 }
 
 .box-container {
@@ -153,14 +153,14 @@ p {
 }
 
 .price {
-    background: url(/img/fondo.png);
+    background: url(img/fondo.png);
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
 }
 
 .about {
-    background: url(/img/fondo.png);
+    background: url(img/fondo.png);
     padding: 10px;
     
 }
@@ -210,7 +210,7 @@ p {
 
 .contact {
     padding: 50px 0;
-    background: url(/img/fondo.png);
+    background: url(img/fondo.png);
 }
 
 
